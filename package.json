@@ -19,7 +19,9 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.3.0",
+    "axios": "^1.7.7",
     "recharts": "^2.12.7",
+    "socket.io-client": "^4.8.0",
     "tailwind-merge": "^3.0.2",
     "zustand": "^5.0.3"
   },
